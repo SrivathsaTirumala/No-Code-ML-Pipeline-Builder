@@ -1,5 +1,8 @@
 ### Project Description: No-Code ML Pipeline Builder
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://nocodemlpipelinebuilder.streamlit.app/)
+
+
 This project involves developing a web-based application that enables users to construct and execute simple machine learning (ML) pipelines without writing any code. The primary objective is to democratize ML workflows, allowing non-technical users to design functionality, create clean user interfaces (UIs), and transform complex processes into an intuitive, visual experience. It evaluates skills in building reliable software with a focus on user-centric design rather than academic expertise.
 
 Core features start with dataset upload, where users can import CSV or Excel files. The app displays essential dataset details like row count, column count, and names, while gracefully handling invalid formats with error messages. Next, data preprocessing offers selectable options such as Standardization (using StandardScaler) and Normalization (MinMaxScaler), applied directly through the UI for seamless integration.
