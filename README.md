@@ -28,9 +28,6 @@ Evaluation prioritizes functionality (reliable end-to-end implementation), UI qu
 - **Models**: Logistic Regression, Decision Tree Classifier
 - **Tools**: Visual Studio Code, GitHub
 
-
-
-
 ## Step by Step procedure to run this project
 
   ### Install the requirements
